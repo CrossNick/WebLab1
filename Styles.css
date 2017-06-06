@@ -1,0 +1,20 @@
+p{
+	font-size: 20px;
+	font-family: TimesNewRoman;
+	text-align: justify;
+	padding:3px;
+	text-indent:20px;
+}
+.ChapterHeader{
+	font-size:40px;
+	color: blue;
+	font-family: TimesNewRoman;
+}
+
+#image1{
+	float:left;
+}
+
+#image2{
+	float:right;
+}
